@@ -1,0 +1,6 @@
+com/ralphiloutatoy/myfirstapp/MainActivity.java
+ com.ralphiloutatoy.myfirstapp.MainActivity
+com/ralphiloutatoy/myfirstapp/DisplayMessageActivity.java
+ com.ralphiloutatoy.myfirstapp.DisplayMessageActivity
+com/ralphiloutatoy/myfirstapp/BuildConfig.java
+ com.ralphiloutatoy.myfirstapp.BuildConfig
