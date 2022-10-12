@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LAB3 by Ralphilou Tatoy</string>
+    <string name="text_hint">Enter video name</string>
+    <string name="btnCapture">Record</string>
+    <string name="buttonPlay">Play Video</string>
+    <string name="title_activity_play_latest">playLatest</string>
+</resources>
